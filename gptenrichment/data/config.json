@@ -1,0 +1,5 @@
+{
+    "ENRICHR_API": "https://maayanlab.cloud/Enrichr",
+    "LIBRARY_LIST_URL": "https://maayanlab.cloud/speedrichr/api/listlibs",
+    "LIBRARY_DOWNLOAD_URL": "https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName="
+}
